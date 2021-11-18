@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EjercicioClase</string>
+    <string name="item">Item</string>
+    <string name="ajustes">Ajustes</string>
+    <string name="sonido">Sonido</string>
+    <string name="velocidad_de_animaci_n">Velocidad de animación</string>
+    <string name="on_or_off">On or Off</string>
+</resources>
